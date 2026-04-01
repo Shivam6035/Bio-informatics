@@ -5,3 +5,8 @@ Image classification of Chest X Rays in one of three classes: Normal, Viral Pneu
 
 
 Dataset from [COVID-19 Radiography Dataset](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database) on Kaggle
+
+Evaluating at step 0
+Validation Loss: 1.3503, Accuracy: 0.3667
+<img width="790" height="135" alt="image" src="https://github.com/user-attachments/assets/67b9f557-c242-4d75-bdad-b24fd7587795" />
+
