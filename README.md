@@ -14,7 +14,7 @@ Evaluating at step 100
 Validation Loss: 0.1711, Accuracy: 0.9667
 <img width="790" height="135" alt="image" src="https://github.com/user-attachments/assets/2c2f81b1-9e93-4a92-ac0b-8ba2b0ee5b60" />
 
-**Training and Validation Loss and Validation Accuracy
+**Training and Validation Loss and Validation Accuracy**
 <img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/0ee0f206-5ffe-46fa-bfcc-9bfc770c5500" />
 
 
