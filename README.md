@@ -17,4 +17,6 @@ Validation Loss: 0.1711, Accuracy: 0.9667
 **Training and Validation Loss and Validation Accuracy**
 <img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/0ee0f206-5ffe-46fa-bfcc-9bfc770c5500" />
 
+<img width="640" height="547" alt="image" src="https://github.com/user-attachments/assets/48e6ed92-cf1b-4e46-a8d9-b72ffe8da146" />
+
 
